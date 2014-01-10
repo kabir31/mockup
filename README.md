@@ -1,4 +1,4 @@
-# User story for Movie Rater
+# User stories for Movie Rater
 
 1. User can view movie titles
 2. Users can rate titles
